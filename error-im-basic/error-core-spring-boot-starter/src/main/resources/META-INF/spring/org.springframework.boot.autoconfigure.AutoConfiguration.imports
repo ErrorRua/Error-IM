@@ -1,0 +1,8 @@
+com.error.config.validator.ValidatorConfiguration
+com.error.config.thead.ThreadConfig
+com.error.config.mybatisplus.MpConfig
+com.error.config.mybatisplus.MyMetaObjectHandler
+com.error.config.Cors.CorsConfig
+com.error.resolver.PostRequestParamResolver
+com.error.resolver.PostRequestParamResolverConfiguration
+com.error.aspect.LogAspect

@@ -1,0 +1,6 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.error.config.validator.ValidatorConfiguration,\
+  com.error.config.thead.ThreadConfig,\
+  com.error.config.mybatisplus.MpConfig,\
+  com.error.config.mybatisplus.MyMetaObjectHandler,\
+  com.error.config.Cors.CorsConfig
